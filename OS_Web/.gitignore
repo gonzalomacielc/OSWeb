@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/OSWeb/v15/Server/sqlite3
+*.lock
+*.ide-shm
+*.ide-wal
+/OSWeb/obj/Debug
+/OSWeb/bin
